@@ -1,0 +1,24 @@
+/* Write your code here. */
+
+.divElement {
+  background-color: #0f172a;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.greeting {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-size: 40px;
+}
+.image {
+  height: 40vh;
+}
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
